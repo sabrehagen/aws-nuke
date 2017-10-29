@@ -43,12 +43,6 @@ delete-s3-bucket@^1.0.1:
   dependencies:
     aws-sdk "^2.132.0"
 
-empty-aws-bucket@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/empty-aws-bucket/-/empty-aws-bucket-1.0.1.tgz#5399e2ae3612767d383348f1953ab1c31c6431b6"
-  dependencies:
-    aws-sdk "^2.132.0"
-
 events@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/events/-/events-1.1.1.tgz#9ebdb7635ad099c70dcc4c2a1f5004288e8bd924"
